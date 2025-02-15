@@ -1,4 +1,5 @@
-# spbu-ai-fundamentals
+# spbu-ai-fundamental
+
 Materials for the practicum for "AI Fundamentals" course  at SpbU
 
 ## Practicum 1
@@ -35,4 +36,5 @@ We continue studying decision trees and also get familiar with kNN for classific
 
 ## Datasets
 
-* Kaggle House Prices: https://drive.google.com/file/d/15QWu8QWhDmJC34ZiNYxdMlC1NWqGsXpJ/view?usp=sharing
+* Kaggle House Prices: <https://drive.google.com/file/d/15QWu8QWhDmJC34ZiNYxdMlC1NWqGsXpJ/view?usp=sharing>
+
